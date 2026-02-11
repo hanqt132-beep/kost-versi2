@@ -167,7 +167,7 @@ const ADMIN_USER: User = {
   username: 'admin',
   contact: 'admin@kostapp.id',
   password: 'Admin123!',
-  photo: 'https://id.pinterest.com/pin/952722496187083203/',
+  photo: 'https://en.wikipedia.org/wiki/Anonymous_%28hacker_group%29#/media/File:Anonymous_emblem.svg',
   role: 'admin',
   createdAt: new Date().toISOString()
 };
